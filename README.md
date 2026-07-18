@@ -2,8 +2,6 @@
 
 Control keyboard steering in games and apps using your webcam and both hands. This project detects hand landmarks with **MediaPipe**, computes the angle between your hands to simulate a steering wheel, and sends **Left/Right Arrow** key input via **PyAutoGUI**.
 
-Inspired by [jayesh-cmd/virtual-steering-wheel](https://github.com/jayesh-cmd/virtual-steering-wheel).
-
 ## Features
 
 - Real-time dual-hand detection (index finger, thumb, wrist)
